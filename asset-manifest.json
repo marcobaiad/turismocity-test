@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/turismocity-test/static/css/main.d2ff17c2.css",
-    "main.js": "/turismocity-test/static/js/main.5efeb3d8.js",
+    "main.js": "/turismocity-test/static/js/main.b30ebd00.js",
     "static/js/787.4f57c0c3.chunk.js": "/turismocity-test/static/js/787.4f57c0c3.chunk.js",
     "static/media/fondo_cuarentena.png": "/turismocity-test/static/media/fondo_cuarentena.d5c9c42c2fd984d2b8b0.png",
     "static/media/comida.png": "/turismocity-test/static/media/comida.778ec9e8e58fa8c35ae5.png",
@@ -11,11 +11,11 @@
     "static/media/tiendamia.png": "/turismocity-test/static/media/tiendamia.2d9d35af3d704deb6996.png",
     "index.html": "/turismocity-test/index.html",
     "main.d2ff17c2.css.map": "/turismocity-test/static/css/main.d2ff17c2.css.map",
-    "main.5efeb3d8.js.map": "/turismocity-test/static/js/main.5efeb3d8.js.map",
+    "main.b30ebd00.js.map": "/turismocity-test/static/js/main.b30ebd00.js.map",
     "787.4f57c0c3.chunk.js.map": "/turismocity-test/static/js/787.4f57c0c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2ff17c2.css",
-    "static/js/main.5efeb3d8.js"
+    "static/js/main.b30ebd00.js"
   ]
 }
